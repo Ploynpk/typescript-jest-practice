@@ -1,5 +1,7 @@
 import { add } from '../src/example';
 
-test('adds two numbers', () => {
-  expect(add(2, 3)).toBe(5);
+describe('add function', () => {
+  test('adds two numbers', () => {
+    expect(add(2, 3)).toBe(5);
+  });
 });
