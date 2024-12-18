@@ -1,4 +1,4 @@
-import { add } from '../src/example';
+import { add } from '../src/components/example';
 
 describe('add function', () => {
   test('adds two numbers', () => {

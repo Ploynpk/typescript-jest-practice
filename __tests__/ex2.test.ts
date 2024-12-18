@@ -1,4 +1,4 @@
-import { testTs } from '../src/ex2';
+import { testTs } from '../src/components/ex2';
 
 describe('testTs function', () => {
   // apply to all
