@@ -1,0 +1,11 @@
+.show-word-underline {
+    margin-top: 50px;
+    display: flex;
+    gap: .25em;
+    font-size: 6rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: monospace;
+    text-align: center;
+    justify-content: center;
+}
