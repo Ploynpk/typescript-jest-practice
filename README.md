@@ -1,1 +1,1 @@
-# typescript-jest-template
+# typescript-jest-practice
